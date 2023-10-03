@@ -1,0 +1,30 @@
+.nav {
+    background-color: white;
+    border-color: black;
+    border-bottom: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.hero-section{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.heading {
+    font-size: 32px;
+}
+.subheading {
+    font-size: 20px;
+}
+.button {
+    display: inline-block;
+    padding: 4px;
+    background-color: rgb(255, 168, 248);
+    border-radius: 8px;
+    border: 0.5px solid;
+}
+.big-button {
+    font-size: 20px;
+}
